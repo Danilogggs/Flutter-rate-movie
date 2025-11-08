@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971990924981",
+    "project_id": "react-dbdb8",
+    "storage_bucket": "react-dbdb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971990924981:android:35cc7f63ed569ba008c8fc",
+        "android_client_info": {
+          "package_name": "com.example.rate_my_movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsgz_TLZoFM-eseknJcEPCpxeIteDJ0Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
